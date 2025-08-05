@@ -28,6 +28,8 @@ This project uses **MediaPipe** for hand tracking, **OpenCV** for real-time comp
    - If distance < 45 → 🔉 Volume Down
 5. Use **PyAutoGUI** to simulate key presses.
 
+<img width="652" height="524" alt="image" src="https://github.com/user-attachments/assets/0a8d2759-41b6-463b-b786-629a7b064711" />
+
 ---
 
 ## 🛠️ Installation
